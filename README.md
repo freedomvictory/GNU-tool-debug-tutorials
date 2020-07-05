@@ -20,4 +20,5 @@ This project recoded some basic GNU debug tool or compiler method of using, such
 
 
 ## Author contract 
+`email:dinggl9367@163.com`
 
